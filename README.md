@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm Adrien 
 
 
-<img src="https://i.imgur.com/zbhSIwe.jpeg" width="200">
+<img src="https://i.imgur.com/zbhSIwe.jpeg" width="500">
 
 <!--
 **AdrienHdz/AdrienHdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
