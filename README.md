@@ -1,6 +1,7 @@
 ![background](background.jpg)
 ## Hi there, I'm Adrien 👋 
 
+I'm currently a 2nd year student in the M.Sc. Data Science & Business Analytics at HEC Montréal | VP Education @ CSD - Data Science for Business HEC Montréal | réalAssistant Researcher in data science at HEC Montréal
 <!--
 Here are some ideas to get you started:
 
