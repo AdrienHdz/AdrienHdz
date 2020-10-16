@@ -11,22 +11,19 @@ I love to code, nerd out on data and solve complex problems with AI.
 
 **I'm looking for a data scientist position in Montréal starting April 2021.**
 
-# ⚡ The languages I'm using :
+## ⚡ My languages :
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&logo=Python&label=&message=Python)
 ![R](https://img.shields.io/static/v1?style=for-the-badge&logo=R&label=&message=R)
 ![SQL](https://img.shields.io/static/v1?style=for-the-badge&logo=PostgreSQL&label=&message=SQL)
 ![HTML](https://img.shields.io/static/v1?style=for-the-badge&logo=Html5&label=&message=HTML)
 
+## ⚡ My tools :
+![Git](https://img.shields.io/static/v1?style=for-the-badge&logo=Git&label=&message=Git)
+![Git](https://img.shields.io/static/v1?style=for-the-badge&logo=Github&label=&message=Github)
 
-<!--
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## ⚡ My softwares :
+
+
+
