@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Adrien 
 
-
+![An image](https://i.imgur.com/zbhSIwe.jpeg) <!-- .element height="50%" width="50%" -->
 <img src="https://i.imgur.com/zbhSIwe.jpeg" width="500", height="300">
 
 <!--
