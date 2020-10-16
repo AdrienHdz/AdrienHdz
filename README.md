@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Adrien 
 
-<img src="https://www.linkedin.com/in/adrienhernandez/detail/background-image/" width="500">
+![background](https://github.com/AdrienHdz/AdrienHdz/background.jpg)
 
 <!--
 **AdrienHdz/AdrienHdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
