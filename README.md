@@ -14,6 +14,7 @@ I love to code, nerd out on data and solve complex problems with AI.
 # ⚡ The languages I'm using :
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&logo=python&label=&message=Python)
 ![R](https://img.shields.io/static/v1?style=for-the-badge&logo=R&label=&message=R)
+![SQL](https://img.shields.io/static/v1?style=for-the-badge&logo=PostgreSQL&label=&message=SQL)
 
 
 <!--
