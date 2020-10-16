@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Adrien 
 
-![background](https://github.com/AdrienHdz/AdrienHdz/background.jpg)
+![background](background.jpg)
 
 <!--
 **AdrienHdz/AdrienHdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
