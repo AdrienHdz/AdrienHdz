@@ -1,5 +1,5 @@
 ![background](background.jpg)
-## Hi there, I'm Adrien
+## Hi there 👋
 
 ❯ I'm currently a 2nd year student in the M.Sc. Data Science & Business Analytics at HEC Montréal
 
