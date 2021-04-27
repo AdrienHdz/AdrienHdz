@@ -7,7 +7,7 @@
 
 ❯ Research Assistant in Data Science at HEC Montréal
 
-I love to code, nerd out on data and solve complex problems with AI ⚡.
+I love to code, nerd out on data and solve complex problems with AI.
 
 **I'm looking for a data scientist position in Montréal starting April 2021.**
 
